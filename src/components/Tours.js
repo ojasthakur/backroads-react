@@ -9,7 +9,6 @@ const Tours = () => {
 
       <div className="section-center featured-center">
         {tours.map((element) => {
-          console.log("hello");
           return <ToursCards {...element} key={element.id} />;
         })}
       </div>
