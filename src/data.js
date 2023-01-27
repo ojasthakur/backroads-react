@@ -79,7 +79,29 @@ export const tours = [
     price: "from $5000",
   },
   {
-    id: 1,
+    id: 4,
+    image: tour1,
+    date: "august 26th, 2020",
+    title: "Tibet Adventure",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumquevitae tempore voluptatum maxime reprehenderit eum quodexercitationem fugit, qui corporis.",
+    location: "china",
+    duration: "6 days",
+    price: "from $2100",
+  },
+  {
+    id: 5,
+    image: tour1,
+    date: "august 26th, 2020",
+    title: "Tibet Adventure",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumquevitae tempore voluptatum maxime reprehenderit eum quodexercitationem fugit, qui corporis.",
+    location: "china",
+    duration: "6 days",
+    price: "from $2100",
+  },
+  {
+    id: 6,
     image: tour1,
     date: "august 26th, 2020",
     title: "Tibet Adventure",
